@@ -8,4 +8,4 @@ def add(x, y):
 
 def subtract(x, y):
     """subtract y from x and return result"""
-    return 1
+    return x - y
